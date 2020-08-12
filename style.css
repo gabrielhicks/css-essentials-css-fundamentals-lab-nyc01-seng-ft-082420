@@ -39,12 +39,9 @@ figure figcaption {
 
 #details {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 }
 
 #details > div {
   float: left;
-  margin-left: auto;
-  margin-right: auto;
 }
