@@ -6,6 +6,8 @@ body {
 
 header {
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
@@ -24,6 +26,8 @@ nav a {
 
 figure figcaption {
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #featured-property > p {
