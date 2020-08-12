@@ -45,4 +45,6 @@ figure figcaption {
 
 #details > div {
   float: left;
+  margin-left: auto;
+  margin-right: auto;
 }
